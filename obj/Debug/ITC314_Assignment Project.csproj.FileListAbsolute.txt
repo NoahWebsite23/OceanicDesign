@@ -1,0 +1,9 @@
+C:\Users\tunoa\Documents\Visual Studio 2008\Projects\ITC314_Assignment Project\ITC314_Assignment Project\bin\ITC314_Assignment Project.dll
+C:\Users\tunoa\Documents\Visual Studio 2008\Projects\ITC314_Assignment Project\ITC314_Assignment Project\bin\ITC314_Assignment Project.pdb
+C:\Users\tunoa\Documents\Visual Studio 2008\Projects\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tunoa\Documents\Visual Studio 2008\Projects\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.dll
+C:\Users\tunoa\Documents\Visual Studio 2008\Projects\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.pdb
+D:\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.csproj.AssemblyReference.cache
+D:\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.csproj.CoreCompileInputs.cache
+D:\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.dll
+D:\ITC314_Assignment Project\ITC314_Assignment Project\obj\Debug\ITC314_Assignment Project.pdb
